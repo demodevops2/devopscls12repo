@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hi all welcome to aws class"
+echo "Hi all welcome to devops class"
